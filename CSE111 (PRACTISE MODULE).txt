@@ -1,0 +1,3 @@
+learn cse111
+day 2
+commit n pushing with the use of command
